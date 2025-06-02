@@ -7,8 +7,8 @@
   z-index: 200;
   padding-top: 5px;
   background-color: white;
-}
 
+}
 
 .sidebar-link{
   height: 74px;
@@ -17,15 +17,18 @@
   align-items: center;
   flex-direction: column;
   cursor: pointer;
+
 }
 
 .sidebar-link:hover{
   background-color: rgb(235, 235, 235);
+
 }
 
 .sidebar-link img{
   height: 24px;
-  margin-bottom: 4px;;
+  margin-bottom: 4px;
+
 }
 
 
@@ -34,6 +37,3 @@
   font-size: 10px;
 
 }
-
-
-
